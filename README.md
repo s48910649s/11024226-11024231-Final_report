@@ -22,23 +22,28 @@
 
 ![Alt text](final/01.png)
 
+# 论文文档截图
+
+![Alt text](final/02.png)
+![Alt text](final/03.png)
+
 # 頁面截圖
 
-![Alt text](images/1.png)
-![Alt text](images/2.png)
-![Alt text](images/3.png)
-![Alt text](images/4.png)
-![Alt text](images/5.png)
-![Alt text](images/6.png)
-![Alt text](images/7.png)
-![Alt text](images/8.png)
-![Alt text](images/9.png)
-![Alt text](images/10.png)
-![Alt text](images/11.png)
+![Alt text](final/04.png)
+![Alt text](final/05.png)
+![Alt text](final/06.png)
+![Alt text](final/07.png)
+![Alt text](final/08.png)
+![Alt text](final/09.png)
+![Alt text](final/10.png)
+![Alt text](final/11.png)
+![Alt text](final/12.png)
+![Alt text](final/13.png)
+![Alt text](final/14.png)
 
 # 數據庫
 
-![Alt text](<images/Screenshot 2023-12-24 at 6.38.17 PM.png>)
+![Alt text](final/15.png)
 
 # 參考資料
 
