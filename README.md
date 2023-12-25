@@ -20,7 +20,7 @@
 
 # 系统结构图
 
-![Alt text](<images/Screenshot 2023-12-24 at 5.54.12 PM.png>)
+![Alt text](final/01.png)
 
 # 頁面截圖
 
